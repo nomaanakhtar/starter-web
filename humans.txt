@@ -13,7 +13,7 @@ testing 101
 
 # THANKS
 
-    <name>
+    everyone!
 
 # TECHNOLOGY COLOPHON
 
