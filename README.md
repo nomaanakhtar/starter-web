@@ -8,8 +8,10 @@ test 3 test 4 test 5
 
 ## Purpose
 
-Sample website with plenty of files for demos
+test 6
 
 # Deploy
+
+test 7
 
 ## How to Contribute
